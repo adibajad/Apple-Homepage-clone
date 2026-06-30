@@ -10,8 +10,8 @@
   
     
 ## Technologies used
->HTML5
->CSS3
+>HTML5  
+>CSS3  
 
      
 ## Purpose
@@ -25,10 +25,10 @@ The Apple name, logo, trademarks, and any copyrighted assests used in this proje
   
   
 ## Future Improvements
->Add JavaScript for interactivity
->Improve responsiveness across more devices 
->Optimize performance
->Rebuild using React
+>Add JavaScript for interactivity  
+>Improve responsiveness across more devices  
+>Optimize performance  
+>Rebuild using React  
   
     
 ## Author
