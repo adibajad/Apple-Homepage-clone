@@ -3,8 +3,8 @@
   
 ## Features
 -Responsive design  
--Moden Apple inspired user interface
-_Clean and organized code
+-Moden Apple inspired user interface  
+_Clean and organized code  
 _Buit using only HTML and CSS
   
 ## Technologies used
